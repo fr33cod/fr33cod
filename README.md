@@ -1,5 +1,5 @@
 ### Hey, I'm [fr33cod!](https://github.com/fr33cod) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-Here are some ideas to get you started:
+Software developer specialized in process automation with JavaScript and Python. Experienced in creating scripts and tools that optimize workflows and improve operational efficiency. Passionate about continuous learning and development best practices, I enjoy collaborating on open source projects and exploring new technologies to drive innovation.
 
 
 
