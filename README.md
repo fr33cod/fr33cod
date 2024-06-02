@@ -9,5 +9,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fr33cod&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Link
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCrfw6zyxGXGIjMoQuYUDKyw?view_as=subscriber)
-</div>
+<a href="https://www.youtube.com/channel/UCrfw6zyxGXGIjMoQuYUDKyw">
+  <img align="left" alt="Victor's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://t.me/fr33cod">
+  <img align="left" alt="Victor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+
+
+
