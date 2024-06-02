@@ -5,18 +5,11 @@ Here are some ideas to get you started:
 
 
 ### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://github.com/fr33cod/fr33cod/blob/main/gas.png" height="35">  <img src="https://github.com/fr33cod/fr33cod/blob/main/js.png" height="25">     <img src="https://github.com/fr33cod/fr33cod/blob/main/py.png" height="25">
 
 
 ### Other Languages I know
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Json-000000?style=flat&logo=json&logoColor=white"> <img src="http://img.shields.io/badge/-AppScript-000000?style=flat&logo=appscript&logoColor=white">
-
-<code><img height="20" src="https://github.com/fr33cod/fr33cod/blob/main/google-apps-script-seeklogo.svg"></code>
-<code> <img src="https://github.com/fr33cod/fr33cod/blob/main/gas.png" height="35"> </code>
-<code> <img src="https://github.com/fr33cod/fr33cod/blob/main/js.png" height="25"> </code>
-
-
-<code> <img src="https://github.com/fr33cod/fr33cod/blob/main/py.png" height="25"> </code>
 
 
 
