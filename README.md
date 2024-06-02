@@ -9,7 +9,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fr33cod&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Link
-<a href="https://www.youtube.com/channel/UCrfw6zyxGXGIjMoQuYUDKyw">
+<a href="https://www.youtube.com/@fr33cod">
   <img align="left" alt="Victor's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://t.me/fr33cod">
