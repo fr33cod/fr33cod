@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 ### Tech & Tools Preference
-<img src="https://github.com/fr33cod/fr33cod/blob/main/gs.png" height="35">  <img src="https://github.com/fr33cod/fr33cod/blob/main/js.png" height="35">     <img src="https://github.com/fr33cod/fr33cod/blob/main/py.png" height="35">
+<img src="https://github.com/fr33cod/fr33cod/blob/main/src/gs.png" height="35">  <img src="https://github.com/fr33cod/fr33cod/blob/main/src/js.png" height="35">     <img src="https://github.com/fr33cod/fr33cod/blob/main/src/py.png" height="35">
 
 
 ### Other Languages I know
